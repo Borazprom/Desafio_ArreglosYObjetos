@@ -1,0 +1,56 @@
+.main-section {
+    background-image: url('../img/img-main.jpeg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+h2 {
+    padding-bottom: 20px;
+}
+/* VENTA */
+
+.container_venta {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#venta-card {
+    width: 30%;
+    margin: 10px;
+    border: black 1px solid;
+    border-radius: 8px;
+    height: auto;
+    padding: 16px;
+}
+/* ALQUILER */
+
+.container_alquiler{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#alquiler-card {
+    width: 30%;
+    margin: 10px;
+    border: black 1px solid;
+    border-radius: 8px;
+    height: auto;
+    padding: 16px;
+}
+.smokeFalse{
+    color: red;
+}
+.smokeTrue{
+    color: green;
+}
+.petsFalse{
+    color: red;
+}
+.petsTrue{
+    color: green;
+}
