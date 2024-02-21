@@ -2,7 +2,7 @@ let htmlVenta = "";
 const propiedades_venta = [
   {
     Nombre: "Casa Amareto",
-    scr: "assets/img/1.png",
+    scr: "assets/imgs/1.png",
     descripcion:
       "Esta hermosa Casa de lujo está ubicada en un lugar residencial",
     ubicacion: "Alto de mar #389 Con Con",
@@ -14,7 +14,7 @@ const propiedades_venta = [
   },
   {
     Nombre: "Casa Blanca Medi",
-    scr: "assets/img/2.png",
+    scr: "assets/imgs/2.png",
     descripcion:
       "Esta hermosa casa de lujo está ubicado en una exclusiva zona residencial",
     ubicacion: "123 Luxury Lane, Prestige Suburb, CA 45678",
@@ -26,7 +26,7 @@ const propiedades_venta = [
   },
   {
     Nombre: "Casa patrimonial",
-    scr: "assets/img/3.png",
+    scr: "assets/imgs/3.png",
     descripcion:
       "Esta Preciosa casa patrimonial esta reservada para los amantes de la cultura",
     ubicacion: "789 Mountain Road, Summit Peaks, CA 23456",
@@ -38,7 +38,7 @@ const propiedades_venta = [
   },
   {
     Nombre: "Casa Lote Premium",
-    scr: "assets/img/4.png",
+    scr: "assets/imgs/4.png",
     descripcion: "Esta casa de Dos pisos esta ubucada en una zona residencial",
     ubicacion: "567 Skyline Avenue, Skyview City, CA 56789",
     habitaciones: "3 habitaciones",
@@ -49,7 +49,7 @@ const propiedades_venta = [
   },
   {
     Nombre: "Casa Ping Young",
-    scr: "assets/img/5.png",
+    scr: "assets/imgs/5.png",
     descripcion:
       "Esta Hermosa casa media rustica, esta ubicada a minutos de la ciudad",
     ubicacion: "289 Av Errazuriz, Curauma, Valparaiso",
@@ -61,7 +61,7 @@ const propiedades_venta = [
   },
   {
     Nombre: "Apartamento moderno",
-    scr: "assets/img/6.png",
+    scr: "assets/imgs/6.png",
     descripcion: "Este apartamento moderno esta ubicado en una zona exclusiva",
     ubicacion: "Alto las Condes 1027, Las Condes, Santiago",
     habitaciones: "3 habitaciones",

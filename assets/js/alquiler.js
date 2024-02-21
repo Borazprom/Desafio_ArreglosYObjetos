@@ -2,7 +2,7 @@ let htmlalquiler = "";
 const propiedades_alquiler = [
   {
     Nombre: "Casa Finca",
-    scr: "assets/img/7.png",
+    scr: "assets/imgs/7.png",
     descripcion:
       "Esta casa estilo finca, esta ubicada cerca de la ciudad. Para los amantes de la naturaleza",
     ubicacion: "123 Main Street, Anytown, CA 91234",
@@ -14,7 +14,7 @@ const propiedades_alquiler = [
   },
   {
     Nombre: "Apartamento luminoso con vista al mar",
-    scr: "assets/img/8.png",
+    scr: "assets/imgs/8.png",
     descripcion:
       "Este hermoso apartamento ofrece una vista impresionante al mar",
     ubicacion: "456 Ocean Avenue, Seaside Town, CA 56789",
@@ -26,7 +26,7 @@ const propiedades_alquiler = [
   },
   {
     Nombre: "Condominio moderno en zona residencial",
-    scr: "assets/img/9.png",
+    scr: "assets/imgs/9.png",
     descripcion:
       "Este elegante condominio moderno está ubicado en una tranquila zona residencial",
     ubicacion: "123 Main Street, Anytown, CA 91234",
@@ -38,7 +38,7 @@ const propiedades_alquiler = [
   },
   {
     Nombre: "Penthouse de lujo con terraza panorámica",
-    scr: "assets/img/10.png",
+    scr: "assets/imgs/10.png",
     descripcion:
       "Este penthouse de lujo ofrece una terraza panorámica con vistas espectaculares",
     ubicacion: "567 Skyline Avenue, Skyview City, CA 56789",
@@ -50,7 +50,7 @@ const propiedades_alquiler = [
   },
   {
     Nombre: "Casa moderna de ambiente",
-    scr: "assets/img/11.png",
+    scr: "assets/imgs/11.png",
     descripcion: "Esta Hermosa casa moderna ofrece espacios de recreación",
     ubicacion: "567 Skyline Avenue, Skyview City, CA 56789",
     habitaciones: "3 habitaciones",
@@ -61,7 +61,7 @@ const propiedades_alquiler = [
   },
   {
     Nombre: "casa Quincho",
-    scr: "assets/img/12.png",
+    scr: "assets/imgs/12.png",
     descripcion: "Casa alojada a minutos de la ciudad.",
     ubicacion: "567 Skyline Avenue, Skyview City, CA 56789",
     habitaciones: "3 habitaciones",
